@@ -10,6 +10,7 @@ document.querySelectorAll('.slider').forEach((n, i) => {
 			// when window width is >= 320px
 			299: {
 				height: 260,
+				
 			},
 			// when window width is >= 480px
 			480: {

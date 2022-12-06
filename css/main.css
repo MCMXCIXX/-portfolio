@@ -49,13 +49,3 @@ html, body {
 .slider:nth-child(odd) .slider__img {
     transform: rotate(180deg);
 }
-/* @media (max-width: 755.99px) {
-    .slider__item {
-        max-height: 250px;
-    }
-}
-@media (max-width: 400.99px) {
-    .slider__item {
-        max-height: 150px;
-    }
-} */
